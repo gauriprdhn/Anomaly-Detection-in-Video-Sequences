@@ -9,6 +9,12 @@ Anomalies are rare and of varying nature and supervised learning approaches will
 !pip mxnet-cu100
 ```
 
+
+A snippet of anamoly Detection 
+
+![108cae](https://user-images.githubusercontent.com/25079132/81217485-af828400-8faa-11ea-99c3-85b11b594f53.PNG)
+
+The red dots in the anamoly picture can be witnessed in real time 
 ***1.	CAE:***
 
 **1.1 Training Phase:**
